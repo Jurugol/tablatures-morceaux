@@ -1,15 +1,27 @@
 // rythme libre
+// à la ligne avant : 2
 // maquette : time-skipper.mp3
 \title "Time Skipper"
-\tempo 279
+\tempo 294
 \track "Guitare"
 \tuning (E4 B3 G3 D3 A2 D2)
 
-\ts 3 1 (7.3 5.5).2{ch "Eb octave"} (9.3 7.5).4{ch "F octave"} (9.3 7.5).4 (11.3 9.5).4{ch "G octave"} (11.3 9.5).2{d} (7.3 5.5).1{ch "D octave"}
+\ts 15 4 (7.3 5.5).2{d ch "D octave"} (9.3 7.5).4{ch "E octave"} (9.3 7.5).4 (11.3 9.5).4{ch "F# octave"} (11.3 9.5).1{d} (6.3 4.5).4{ch "C# octave"} (6.3 4.5).4 (7.3 5.5).4{ch "D octave"} |
+\ts 17 8 (7.3 5.5).1 (9.3 7.5).4{ch "E octave"} (9.3 7.5).4 (11.3 9.5).4{ch "F# octave"} (11.3 9.5).4{d} |
+\ts 15 4 (7.3 5.5).2{d ch "D octave"} (9.3 7.5).4{ch "E octave"} (9.3 7.5).4 (11.3 9.5).4{ch "F# octave"} (11.3 9.5).1{d} (6.3 4.5).4{ch "C# octave"} (6.3 4.5).4 (7.3 5.5).4{ch "D octave"} |
+\ts 17 8 (7.3 5.5).1 (9.3 7.5).4{ch "E octave"} (9.3 7.5).4 (9.3 7.5).4 (9.3 7.5).4{d}
 .
-\sync 0 0 3230
-\sync 0 0 3726 0.25
-\sync 0 0 3925 0.375
-\sync 0 0 4124 0.5
-\sync 0 0 4339 0.625
-\sync 0 0 5006 1
+\sync 0 0 3203
+\sync 0 0 3742 0.2
+\sync 0 0 3926 0.267
+\sync 0 0 4131 0.333
+\sync 0 0 4334 0.4
+\sync 0 0 5356 0.8
+\sync 0 0 5541 0.867
+\sync 0 0 5743 0.933
+\sync 1 0 5944
+\sync 1 0 6887 0.471
+\sync 1 0 7075 0.588
+\sync 1 0 7282 0.706
+\sync 1 0 7488 0.824
+\sync 1 0 7823 1
