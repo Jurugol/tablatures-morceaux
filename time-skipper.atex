@@ -1,15 +1,15 @@
 // rythme libre
 // maquette : time-skipper.mp3
 \title "Time Skipper"
-\tempo 154
+\tempo 279
 \track "Guitare"
 \tuning (E4 B3 G3 D3 A2 D2)
 
-\ts 3 1 (7.3 5.5).1{ch "Eb octave"} (9.3 7.5).4{ch "F octave"} (9.3 7.5).8{d} (11.3 9.5).4{ch "G octave"} (11.3 9.5).1
+\ts 3 1 (7.3 5.5).2{ch "Eb octave"} (9.3 7.5).4{ch "F octave"} (9.3 7.5).4 (11.3 9.5).4{ch "G octave"} (11.3 9.5).2{d} r.1
 .
-\sync 0 0 3280
-\sync 0 0 3909 0.372
-\sync 0 0 4053 0.465
-\sync 0 0 4194 0.535
-\sync 0 0 4359 0.628
-\sync 0 0 5061 1
+\sync 0 0 3230
+\sync 0 0 3726 0.25
+\sync 0 0 3925 0.375
+\sync 0 0 4124 0.5
+\sync 0 0 4339 0.625
+\sync 0 0 5006 1
