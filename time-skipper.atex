@@ -5,7 +5,7 @@
 \track "Guitare"
 \tuning (E4 B3 G3 D3 A2 D2)
 
-\ts 3 1 (7.3 5.5).2{ch "Eb octave"} (9.3 7.5).4{ch "F octave"} (9.3 7.5).4 (11.3 9.5).4{ch "G octave"} (11.3 9.5).2{d} r.1
+\ts 3 1 (7.3 5.5).2{ch "Eb octave"} (9.3 7.5).4{ch "F octave"} (9.3 7.5).4 (11.3 9.5).4{ch "G octave"} (11.3 9.5).2{d} (7.3 5.5).1{ch "D octave"}
 .
 \sync 0 0 3230
 \sync 0 0 3726 0.25
