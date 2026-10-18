@@ -1,8 +1,8 @@
 // rythme libre
-// à la ligne avant : 4 8 13 16
+// à la ligne avant : 4 8 13 17
 // maquette : time-skipper.mp3
 // tempo tapé
-// parties : {"8":{"sorte":"chant","paroles":["Wake up, let it go","This place feels so unknown","Stumbling on my feet","What the hell is this?","Showcase my ignorance","It makes no difference","This world is a divergence"],"lignesMs":[23366.438,26403.9,29593.082,32714.219,35845.242,38887.452000000005,41884.191999999995]},"9":{"sorte":"tab","paroles":["I’m outta touch, and I’m out of time","Disconnected from this city’s mind","The wrong way out would be to run away","If you’re strong rise up and seize the day day day"],"motsMs":{"0":[47151.573,47513.708999999995,48009.511000000006,48489.19,48823.636999999995,49033.632,49255.257999999994,49670.072],"1":[53254.356999999996,54598.249,54988.452000000005,55276.6,55774.634],"2":[59794.191,59968.561,60281.823000000004,60485.727,60822.03,61204.489,61794.148,62218.07,63250.591],"3":[66119.987,66311.962,66672.516,67110.118,67295.528,67529.988,67709.902,68053.273,68497.53099999999,69246.978,70044.658]},"lignesMs":[47151.573,53254.356999999996,59794.191,66119.987],"ancres":{"0":["9:1","9:2","9:4","9:4","9:5","9:6","9:7","10:0"],"1":["11:1","11:5","11:5","11:7","12:0"],"2":["13:1","13:2","13:3","13:4","13:5","13:6","13:7","13:8:0.627","13:11:0.542"],"3":["14:2","14:3","14:4","14:4","14:5","14:5","14:6","14:7","15:0","15:2","15:4"]}},"16":{"sorte":"grille","paroles":["[D5]Melancholy killing me","Please set me free","I’m alone, on my own","The eye of a cyclone","Can’t move I’m paralyzed","I’m not synchronized","Give me a place to hide"],"doigtes":{"D5":"000xxx"}}}
+// parties : {"8":{"sorte":"chant","paroles":["Wake up, let it go","This place feels so unknown","Stumbling on my feet","What the hell is this?","Showcase my ignorance","It makes no difference","This world is a divergence"]},"9":{"sorte":"tab","paroles":["I’m outta touch, and I’m out of time","Disconnected from this city’s mind","The wrong way out would be to run away","If you’re strong rise up and seize the day day day"]},"16":{"sorte":"rappel","paroles":[],"rappel":"Intro"},"17":{"sorte":"grille","paroles":["[D5]Melancholy killing me","Please set me free","I’m alone, on my own","The eye of a cyclone","Can’t move I’m paralyzed","I’m not synchronized","Give me a place to hide"],"doigtes":{"D5":"000xxx"}}}
 \title "Time Skipper"
 \tempo 154
 \track "Guitare"
@@ -24,6 +24,7 @@
 \ts 4 1 (4.3 4.4 2.5).4{ch "B5"} (4.3 4.4 2.5).4 (4.3 4.4 2.5).8 (4.4 4.5 4.6).4{ch "F#5"} (5.4 5.5 5.6).4{d ch "G5"} (5.4 5.5 5.6).4 (5.4 5.5 5.6).8 (4.4 4.5 4.6).4{ch "F#5"} (2.4 2.5 2.6).4{d ch "E5"} (2.4 2.5 2.6).4 (2.4 2.5 2.6).8 (4.4 4.5 4.6).4{ch "F#5"} (5.4 5.5 5.6).4{d ch "G5"} (5.4 5.5 5.6).4 (7.4 7.5 7.6).4{ch "A5"} (7.4 7.5 7.6).4 |
 \ts 2 1 (7.3 7.4 5.5).4{ch "D5"} (7.3 7.4 5.5).4 (7.3 7.4 5.5).8 (7.3 7.4 5.5).4 (7.3 7.4 4.5).4{d ch "D5/C#"} (7.3 7.4 4.5).4 (7.3 7.4 4.5).8 (7.3 7.4 4.5).4{d} |
 \ts 2 1 (7.3 5.4 5.5 5.6).4{ch "G5"} (7.3 5.4 5.5 5.6).4 (7.3 5.4 5.5 5.6).8 (7.3 5.4 5.5 5.6).4 (7.3 5.4 5.5 5.6).4{d} (7.3 5.4 5.5 5.6).4 (7.3 5.4 5.5 5.6).8 (7.3 5.4 5.5 5.6).4{d} |
+\section "Intro" \ts 1 1 r.1 |
 \section "Couplet" \ts 1 1 r.1 |
 \ts 1 4 r.4
 .
@@ -91,58 +92,3 @@
 \sync 7 0 21054 0.3
 \sync 7 0 21287 0.35
 \sync 7 0 21442 0.4
-\sync 8 0 23366
-\sync 9 0 46780
-\sync 9 0 47164 0.133
-\sync 9 0 47548 0.267
-\sync 9 0 47728 0.333
-\sync 9 0 48131 0.467
-\sync 9 0 48700 0.667
-\sync 9 0 49078 0.8
-\sync 9 0 49240 0.867
-\sync 10 0 49666
-\sync 10 0 50244 0.176
-\sync 10 0 50620 0.294
-\sync 10 0 50778 0.353
-\sync 10 0 51216 0.471
-\sync 10 0 51791 0.647
-\sync 10 0 52175 0.765
-\sync 10 0 52342 0.824
-\sync 11 0 52979
-\sync 11 0 53369 0.125
-\sync 11 0 53758 0.25
-\sync 11 0 53926 0.313
-\sync 11 0 54364 0.438
-\sync 11 0 54954 0.625
-\sync 11 0 55332 0.75
-\sync 11 0 55498 0.813
-\sync 12 0 56068
-\sync 12 0 56499 0.125
-\sync 12 0 56883 0.25
-\sync 12 0 57040 0.313
-\sync 12 0 57448 0.438
-\sync 12 0 57999 0.625
-\sync 12 0 58410 0.75
-\sync 12 0 58583 0.813
-\sync 13 0 59175
-\sync 13 0 63693 0.719
-\sync 13 0 64242 0.813
-\sync 13 0 64707 0.875
-\sync 13 0 65067 0.938
-\sync 14 0 65441
-\sync 14 0 65813 0.125
-\sync 14 0 66201 0.25
-\sync 14 0 66387 0.313
-\sync 14 0 66741 0.438
-\sync 14 0 67292 0.625
-\sync 14 0 67710 0.75
-\sync 14 0 67887 0.813
-\sync 15 0 68505
-\sync 15 0 68924 0.125
-\sync 15 0 69297 0.25
-\sync 15 0 69482 0.313
-\sync 15 0 69885 0.438
-\sync 15 0 70425 0.625
-\sync 15 0 70797 0.75
-\sync 15 0 70982 0.813
-\sync 15 0 71570 1
