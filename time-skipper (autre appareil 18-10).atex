@@ -1,20 +1,23 @@
 // rythme libre
-// à la ligne avant : 4
+// à la ligne avant : 4 8
 // maquette : time-skipper.mp3
 // tempo tapé
+// parties : {"8":{"sorte":"chant","paroles":["Wake up, let it go","This place feels so unknown","Stumbling on my feet","What the hell is this?","Showcase my ignorance","It makes no difference","This world is a divergence"],"lignesMs":[23366.438,26403.9,29593.082,32714.219,35845.242,38887.452000000005,41884.191999999995]}}
 \title "Time Skipper"
 \tempo 154
 \track "Guitare"
 \tuning (E4 B3 G3 D3 A2 D2)
 
-\ts 7 4 (7.3 5.5).4{ch "D oct."} r.8 (9.3 7.5).8{ch "E oct."} (9.3 7.5).8 (11.3 9.5).8{ch "F# oct."} (11.3 9.5).4 r.4{d} (6.3 4.5).8{ch "C# oct."} (6.3 4.5).8 (7.3 5.5).8{ch "D oct."} |
+\section "Intro" \ts 7 4 (7.3 5.5).4{ch "D oct."} r.8 (9.3 7.5).8{ch "E oct."} (9.3 7.5).8 (11.3 9.5).8{ch "F# oct."} (11.3 9.5).4 r.4{d} (6.3 4.5).8{ch "C# oct."} (6.3 4.5).8 (7.3 5.5).8{ch "D oct."} |
 \ts 5 4 (7.3 5.5).4 r.4{d} (9.3 7.5).8{ch "E oct."} (9.3 7.5).8 (11.3 9.5).8{ch "F# oct."} (11.3 9.5).4 |
 \ts 7 4 (7.3 5.5).4{ch "D oct."} r.8 (9.3 7.5).8{ch "E oct."} (9.3 7.5).8 (11.3 9.5).8{ch "F# oct."} (11.3 9.5).4 r.4{d} (6.3 4.5).8{ch "C# oct."} (6.3 4.5).8 (7.3 5.5).8{ch "D oct."} |
 \ts 5 4 (7.3 5.5).4 r.4{d} (9.3 7.5).8{ch "E oct."} (9.3 7.5).8 (9.3 7.5).8 (9.3 7.5).4 |
 \ts 7 4 (7.3 5.5).4{ch "D oct."} r.8 (9.3 7.5).8{ch "E oct."} (9.3 7.5).8 (11.3 9.5).8{ch "F# oct."} (11.3 9.5).4 r.4{d} (6.3 4.5).8{ch "C# oct."} (6.3 4.5).8 (7.3 5.5).8{ch "D oct."} |
 \ts 5 4 (7.3 5.5).4 r.4{d} (7.3 5.5).8{ch "D oct."} (7.3 5.5).8 (9.3 7.5).8{ch "E oct."} (9.3 7.5).4 |
 \ts 7 4 (7.3 5.5).4{ch "D oct."} r.8 (9.3 7.5).8{ch "E oct."} (9.3 7.5).8 (11.3 9.5).8{ch "F# oct."} (11.3 9.5).4 r.4{d} (6.3 4.5).8{ch "C# oct."} (6.3 4.5).8 (7.3 5.5).8{ch "D oct."} |
-\ts 5 4 (7.3 5.5).4 r.4{d} (9.3 7.5).8{ch "E oct."} (9.3 7.5).8 (7.3 5.5).8{ch "D oct."} (7.3 5.5).4
+\ts 5 4 (7.3 5.5).4 r.4{d} (9.3 7.5).8{ch "E oct."} (9.3 7.5).8 (7.3 5.5).8{ch "D oct."} (7.3 5.5).4 |
+\section "Couplet" \ts 1 1 r.1 |
+\ts 1 4 r.4
 .
 \sync 0 0 3163
 \sync 0 0 3533 0.143
@@ -81,3 +84,4 @@
 \sync 7 0 21287 0.7
 \sync 7 0 21442 0.8
 \sync 7 0 21810 1
+\sync 8 0 23366
